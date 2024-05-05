@@ -30,6 +30,7 @@ body{
             /* TEXTO PRINCIPAL */
 
 #texto{
+    border: none;
     text-align: center;
     padding-left:10px;
     padding-right: 10px;
